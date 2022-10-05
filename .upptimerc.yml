@@ -43,5 +43,17 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# adding default workflowSchedule configuration tag as from Upptime documentation
+# and changing inter-uptime (uptime:) delay to reasonable (good-enough) 30 minutes
+#
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
