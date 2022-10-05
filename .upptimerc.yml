@@ -1,26 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: bhiwolfc # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: forty-two times ten - Inh. Christian Wolf (dom,https)
+    url: https://42x10.de
+  - name: forty-two times ten - Inh. Christian Wolf (www,https)
+    url: https://www.42x10.de
+  - name: forty-two times ten - Inh. Christian Wolf (dom,http)
+    url: http://42x10.de
+  - name: forty-two times ten - Inh. Christian Wolf (www,http)
+    url: http://www.42x10.de
+  - name: BHI Systemberatung - Christian Wolf (dom,http,legacy)
+    url: http://bhi.de
+  - name: BHI Systemberatung - Christian Wolf (www,http,legacy)
+    url: http://www.bhi.de
+  - name: Iwanson International GmbH - (dom,https)
+    url: https://iwanson.de
+  - name: Iwanson International GmbH - (www,https)
+    url: https://www.iwanson.de
+  - name: Iwanson International GmbH - (dom,http)
+    url: http://iwanson.de
+  - name: Iwanson International GmbH - (www,http)
+    url: http://www.iwanson.de
+  - name: Test Broken Site - Intentional FAIL to see repo is UP
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
+  ##cname: upptime.bhi.de - PLANNED after DNS records fixed (tbd)
   # baseUrl: /your-repo-name
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: bhiwolf/upptime - GitHub Upptime instance by Christian G. Wolf
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/bhiwolfc/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
