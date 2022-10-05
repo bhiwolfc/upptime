@@ -23,8 +23,8 @@ sites:
     url: http://iwanson.de
   - name: Iwanson International GmbH - (www,http)
     url: http://www.iwanson.de
-  - name: Test Broken Site - Intentional FAIL to see repo is UP
-    url: https://thissitedoesnotexist.koj.co
+##  - name: Test Broken Site - Intentional FAIL to see repo is UP
+##    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
