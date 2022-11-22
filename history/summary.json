@@ -112,19 +112,19 @@
     "url": "https://iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-https",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1110,
-    "timeDay": 1144,
-    "timeWeek": 1074,
-    "timeMonth": 1081,
-    "timeYear": 1110,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1111,
+    "timeDay": 1160,
+    "timeWeek": 1087,
+    "timeMonth": 1084,
+    "timeYear": 1111,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 24
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://www.iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-https",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1226,
-    "timeDay": 1278,
-    "timeWeek": 1211,
-    "timeMonth": 1188,
+    "timeDay": 1257,
+    "timeWeek": 1214,
+    "timeMonth": 1189,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 24
     }
   },
   {
