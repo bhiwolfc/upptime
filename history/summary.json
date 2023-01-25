@@ -4,19 +4,19 @@
     "url": "https://42x10.de",
     "icon": "https://icons.duckduckgo.com/ip3/42x10.de.ico",
     "slug": "forty-two-times-ten-inh-christian-wolf-dom-https",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 869,
     "timeDay": 8882,
     "timeWeek": 2742,
     "timeMonth": 1251,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2023-01-25": 37
+      "2023-01-25": 40
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://www.42x10.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.42x10.de.ico",
     "slug": "forty-two-times-ten-inh-christian-wolf-www-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 746,
     "timeDay": 3471,
@@ -36,7 +36,7 @@
     "timeMonth": 872,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-01-25": 36
+      "2023-01-25": 39
     }
   },
   {
@@ -44,46 +44,50 @@
     "url": "http://42x10.de",
     "icon": "https://icons.duckduckgo.com/ip3/42x10.de.ico",
     "slug": "forty-two-times-ten-inh-christian-wolf-dom-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 260,
     "timeDay": 385,
     "timeWeek": 257,
     "timeMonth": 259,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 3
+    }
   },
   {
     "name": "forty-two times ten - Inh. Christian Wolf (www,http)",
     "url": "http://www.42x10.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.42x10.de.ico",
     "slug": "forty-two-times-ten-inh-christian-wolf-www-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 383,
     "timeWeek": 299,
     "timeMonth": 267,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "BHI Systemberatung - Christian Wolf (dom,http,legacy)",
     "url": "http://bhi.de",
     "icon": "https://icons.duckduckgo.com/ip3/bhi.de.ico",
     "slug": "bhi-systemberatung-christian-wolf-dom-http-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
@@ -91,17 +95,19 @@
     "timeWeek": 423,
     "timeMonth": 420,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "BHI Systemberatung - Christian Wolf (www,http,legacy)",
     "url": "http://www.bhi.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bhi.de.ico",
     "slug": "bhi-systemberatung-christian-wolf-www-http-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
@@ -109,25 +115,28 @@
     "timeWeek": 374,
     "timeMonth": 414,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Iwanson International GmbH - (dom,https)",
     "url": "https://iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-https",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1104,
     "timeDay": 1349,
     "timeWeek": 1116,
     "timeMonth": 1103,
     "timeYear": 1104,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-11-22": 24
     }
   },
@@ -136,18 +145,19 @@
     "url": "https://www.iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-https",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1224,
     "timeDay": 1373,
     "timeWeek": 1214,
     "timeMonth": 1231,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-11-22": 24
     }
   },
@@ -156,10 +166,10 @@
     "url": "http://iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 828,
@@ -167,16 +177,18 @@
     "timeWeek": 807,
     "timeMonth": 813,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Iwanson International GmbH - (www,http)",
     "url": "http://www.iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-http",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -185,6 +197,8 @@
     "timeWeek": 831,
     "timeMonth": 834,
     "timeYear": 817,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
