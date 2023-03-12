@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 857,
-    "timeDay": 550,
-    "timeWeek": 677,
-    "timeMonth": 738,
-    "timeYear": 857,
+    "time": 856,
+    "timeDay": 738,
+    "timeWeek": 706,
+    "timeMonth": 733,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2023-01-25": 95
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 732,
-    "timeDay": 546,
-    "timeWeek": 624,
-    "timeMonth": 698,
+    "timeDay": 701,
+    "timeWeek": 647,
+    "timeMonth": 690,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2023-01-25": 94
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 263,
-    "timeDay": 192,
-    "timeWeek": 247,
-    "timeMonth": 262,
+    "timeDay": 255,
+    "timeWeek": 256,
+    "timeMonth": 260,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2023-01-25": 57
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 258,
-    "timeDay": 195,
-    "timeWeek": 242,
-    "timeMonth": 273,
+    "timeDay": 243,
+    "timeWeek": 247,
+    "timeMonth": 270,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2023-01-25": 57
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 415,
-    "timeDay": 347,
-    "timeWeek": 382,
-    "timeMonth": 418,
+    "timeDay": 430,
+    "timeWeek": 398,
+    "timeMonth": 417,
     "timeYear": 415,
     "dailyMinutesDown": {
       "2023-01-25": 57
@@ -105,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bhi.de.ico",
     "slug": "bhi-systemberatung-christian-wolf-www-http-legacy",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 337,
-    "timeWeek": 421,
-    "timeMonth": 414,
+    "timeDay": 449,
+    "timeWeek": 440,
+    "timeMonth": 415,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2023-01-25": 56
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1177,
-    "timeDay": 931,
-    "timeWeek": 1081,
-    "timeMonth": 1506,
+    "timeDay": 1106,
+    "timeWeek": 1107,
+    "timeMonth": 1502,
     "timeYear": 1177,
     "dailyMinutesDown": {
       "2023-01-25": 22,
@@ -152,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1286,
-    "timeDay": 993,
-    "timeWeek": 1813,
-    "timeMonth": 1585,
+    "timeDay": 1227,
+    "timeWeek": 1844,
+    "timeMonth": 1581,
     "timeYear": 1286,
     "dailyMinutesDown": {
       "2023-01-25": 22,
@@ -173,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 828,
-    "timeDay": 705,
-    "timeWeek": 803,
-    "timeMonth": 834,
+    "timeDay": 840,
+    "timeWeek": 810,
+    "timeMonth": 828,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2023-01-25": 22
@@ -193,9 +193,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 824,
-    "timeDay": 657,
-    "timeWeek": 798,
-    "timeMonth": 857,
+    "timeDay": 805,
+    "timeWeek": 818,
+    "timeMonth": 853,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2023-01-25": 22
