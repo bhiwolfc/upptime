@@ -4,11 +4,11 @@
     "url": "https://42x10.de",
     "icon": "https://icons.duckduckgo.com/ip3/42x10.de.ico",
     "slug": "forty-two-times-ten-inh-christian-wolf-dom-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 822,
     "timeDay": 734,
@@ -16,6 +16,7 @@
     "timeMonth": 691,
     "timeYear": 822,
     "dailyMinutesDown": {
+      "2023-04-24": 2,
       "2023-01-25": 95
     }
   },
