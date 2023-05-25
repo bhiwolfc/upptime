@@ -132,18 +132,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-https",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1185,
     "timeDay": 1115,
     "timeWeek": 1178,
     "timeMonth": 1190,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2023-05-24": 14,
       "2023-01-25": 22,
       "2022-11-22": 24
     }
@@ -154,18 +153,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-https",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1269,
     "timeDay": 1247,
     "timeWeek": 1288,
     "timeMonth": 1244,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2023-05-24": 14,
       "2023-01-25": 22,
       "2022-11-22": 24
     }
@@ -177,9 +175,9 @@
     "slug": "iwanson-international-gmb-h-dom-http",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 824,
     "timeDay": 788,
@@ -187,7 +185,6 @@
     "timeMonth": 812,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-05-24": 14,
       "2023-01-25": 22
     }
   },
@@ -198,9 +195,9 @@
     "slug": "iwanson-international-gmb-h-www-http",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 828,
     "timeDay": 802,
@@ -208,7 +205,6 @@
     "timeMonth": 861,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2023-05-24": 14,
       "2023-01-25": 22
     }
   }
