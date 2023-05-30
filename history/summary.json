@@ -131,9 +131,9 @@
     "url": "https://iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -143,6 +143,7 @@
     "timeMonth": 1205,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2023-01-25": 22,
       "2022-11-22": 24
     }
