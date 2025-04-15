@@ -1,7 +1,7 @@
 url: http://42x10.de
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2025-04-14T23:22:40.905Z
+status: down
+code: 502
+responseTime: 255
+lastUpdated: 2025-04-15T05:38:43.109Z
 startTime: 2022-10-05T19:20:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
