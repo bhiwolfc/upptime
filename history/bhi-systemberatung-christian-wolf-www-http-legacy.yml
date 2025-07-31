@@ -1,7 +1,7 @@
 url: http://www.bhi.de
-status: up
-code: 200
-responseTime: 399
-lastUpdated: 2025-07-30T23:27:26.056Z
+status: down
+code: 500
+responseTime: 366
+lastUpdated: 2025-07-31T11:10:16.341Z
 startTime: 2022-10-05T19:20:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
