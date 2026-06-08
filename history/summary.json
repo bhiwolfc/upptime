@@ -258,9 +258,9 @@
     "slug": "iwanson-international-gmb-h-www-https",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "96.38%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "89.98%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "99.52%",
     "time": 853,
     "timeDay": 1232,
@@ -302,8 +302,7 @@
       "2026-06-02": 390,
       "2026-06-03": 369,
       "2026-06-04": 201,
-      "2026-06-07": 51,
-      "2026-06-08": 11
+      "2026-06-07": 51
     }
   },
   {
@@ -313,9 +312,9 @@
     "slug": "iwanson-international-gmb-h-dom-http",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "90.21%",
-    "uptimeMonth": "96.53%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "99.53%",
     "time": 577,
     "timeDay": 945,
@@ -357,8 +356,7 @@
       "2026-06-02": 380,
       "2026-06-03": 359,
       "2026-06-04": 196,
-      "2026-06-07": 47,
-      "2026-06-08": 6
+      "2026-06-07": 47
     }
   },
   {
@@ -368,8 +366,8 @@
     "slug": "iwanson-international-gmb-h-www-http",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "90.54%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "90.55%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "99.55%",
     "time": 696,
@@ -412,8 +410,7 @@
       "2026-06-02": 370,
       "2026-06-03": 350,
       "2026-06-04": 191,
-      "2026-06-07": 42,
-      "2026-06-08": 1
+      "2026-06-07": 42
     }
   }
 ]
