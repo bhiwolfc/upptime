@@ -202,11 +202,11 @@
     "url": "https://iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-https",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "96.91%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "99.51%",
     "time": 749,
     "timeDay": 794,
@@ -249,7 +249,7 @@
       "2026-06-04": 206,
       "2026-06-07": 56,
       "2026-06-08": 15,
-      "2026-06-14": 70
+      "2026-06-14": 85
     }
   },
   {
@@ -257,11 +257,11 @@
     "url": "https://www.iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-https",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "96.84%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.51%",
     "time": 857,
     "timeDay": 1174,
@@ -304,7 +304,7 @@
       "2026-06-03": 369,
       "2026-06-04": 201,
       "2026-06-07": 51,
-      "2026-06-14": 65
+      "2026-06-14": 75
     }
   },
   {
@@ -312,11 +312,11 @@
     "url": "http://iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-dom-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.52%",
     "time": 581,
     "timeDay": 891,
@@ -359,7 +359,7 @@
       "2026-06-03": 359,
       "2026-06-04": 196,
       "2026-06-07": 47,
-      "2026-06-14": 60
+      "2026-06-14": 65
     }
   },
   {
@@ -367,10 +367,10 @@
     "url": "http://www.iwanson.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "99.54%",
     "time": 705,
