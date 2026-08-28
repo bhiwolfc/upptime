@@ -184,10 +184,10 @@
     "slug": "iwanson-international-gmb-h-dom-https",
     "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.09%",
     "time": 755,
     "timeDay": 0,
     "timeWeek": 732,
@@ -250,7 +250,7 @@
       "2026-08-21": 23,
       "2026-08-22": 20,
       "2026-08-24": 40,
-      "2026-08-28": 15
+      "2026-08-28": 111
     }
   },
   {
@@ -260,10 +260,10 @@
     "slug": "iwanson-international-gmb-h-www-https",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "99.08%",
     "time": 899,
     "timeDay": 0,
     "timeWeek": 1056,
@@ -327,7 +327,7 @@
       "2026-08-21": 18,
       "2026-08-22": 15,
       "2026-08-24": 35,
-      "2026-08-28": 10
+      "2026-08-28": 106
     }
   },
   {
@@ -337,10 +337,10 @@
     "slug": "iwanson-international-gmb-h-dom-http",
     "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.11%",
     "time": 630,
     "timeDay": 0,
     "timeWeek": 815,
@@ -402,7 +402,7 @@
       "2026-08-18": 33,
       "2026-08-20": 46,
       "2026-08-24": 30,
-      "2026-08-28": 5
+      "2026-08-28": 101
     }
   },
   {
@@ -411,11 +411,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iwanson.de.ico",
     "slug": "iwanson-international-gmb-h-www-http",
     "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.48%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.66%",
+    "uptimeYear": "99.15%",
     "time": 827,
     "timeDay": 0,
     "timeWeek": 1196,
@@ -476,7 +476,7 @@
       "2026-08-18": 28,
       "2026-08-20": 41,
       "2026-08-24": 26,
-      "2026-08-28": 1
+      "2026-08-28": 96
     }
   }
 ]
